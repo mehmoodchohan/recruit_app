@@ -6,16 +6,16 @@ This is the Full Stack MERN Application of Developed for Test Purposes
 
 # `Technologies Used`
 
-###1-React JS  
-###2-Node JS
-###3-Redux js
-###4-Redux thunk
-###5-Axios js
-###6-JWT for Authentication
-###7-SendGrip to Send Emails for Verification of Account 
-###9-Mongoose ODM 
-###10-Express JS for Restfull Apis
-###11-Celebrate for Schema Validation
+1-React JS  
+2-Node JS  
+3-Redux js  
+4-Redux thunk  
+5-Axios js  
+6-JWT for Authentication  
+7-SendGrip to Send Emails for Verification of Account   
+9-Mongoose ODM    
+10-Express JS for Restfull Apis  
+11-Celebrate for Schema Validation  
 
 
 ## Run Application
