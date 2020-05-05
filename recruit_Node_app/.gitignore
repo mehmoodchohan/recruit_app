@@ -1,0 +1,7 @@
+# Node Modules directory
+/node_modules
+
+# VS Code configs
+/.vscode
+package-lock.json
+sendgrid.env

@@ -1,0 +1,32 @@
+{
+  "name": "recruit-app",
+  "version": "1.0.0",
+  "description": "Full Stack Recruit Application for the test of Blonk Group",
+  "private": true,
+  "license": "UNLICENSED",
+  "contributors": [],
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js",
+    "client": "npm run start --prefix ../recruit_React_app",
+    "dev": "concurrently  \"npm run server \" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix ../recruit_React_app && npm run build --prefix ../recruit_React_app"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.1.0",
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "celebrate": "^12.1.1",
+    "colors": "^1.4.0",
+    "concurrently": "^5.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.25.3",
+    "mongoose": "^5.9.12"
+  },
+  "devDependencies": {}
+}
