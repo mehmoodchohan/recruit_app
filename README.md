@@ -28,13 +28,13 @@ You will also see any lint errors in the console.
 ## `Front End React Application`
 At Front end React Application User can Perform all these Task
 
-1-Register
-2-Login
-3-Verify Email
-4-Post a new Job
-5-View his/her Posted Jobs
-6-Delete the Posted jobs
-7-Logout
+1-Register  
+2-Login  
+3-Verify Email  
+4-Post a new Job  
+5-View his/her Posted Jobs  
+6-Delete the Posted jobs  
+7-Logout  
 
 
 ## `Backend End React Application`
