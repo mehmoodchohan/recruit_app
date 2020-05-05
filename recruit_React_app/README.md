@@ -6,7 +6,7 @@ This is the Full Stack MERN Application of Developed for Test Purposes
 
 # `Technologies Used`
 
-###1-React JS
+###1-React JS  
 ###2-Node JS
 ###3-Redux js
 ###4-Redux thunk
